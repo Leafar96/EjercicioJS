@@ -1,0 +1,27 @@
+
+nav{
+width: 100%;
+height: 200px;
+background-color: black;
+}
+
+
+
+.piramide{
+background-color: #382110;
+color: white;
+font-weight: normal;
+float: right;
+margin:2px;
+padding-top:;
+padding: 8px;
+height: 26px;
+border: none;
+border-radius: 3px;
+font-family: sans-serif;
+font-size: 11px;
+text-decoration: none;
+cursor: pointer;
+line-height: 1;
+letter-spacing: normal;
+}
